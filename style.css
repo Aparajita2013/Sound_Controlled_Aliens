@@ -1,0 +1,35 @@
+body{
+    background-color: blueviolet;
+    color: aquamarine;
+    font-family: 'Kenia', sans-serif;
+}
+
+.header_div{
+    background-color: deepskyblue;
+    color: khaki;
+}
+
+.header_div p{
+    color: rgb(232, 51, 14);
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+
+.main_div button{
+    letter-spacing: 2px;
+    width: 150px;
+    margin-top: 30px;
+    font-family: 'Pacifico', cursive;
+}
+
+.footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    font-size: 18px;
+    background-color: mediumorchid;
+    color: midnightblue;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px lightblue;
+}
